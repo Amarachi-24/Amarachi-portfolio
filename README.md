@@ -9,11 +9,11 @@ My background in networking gives me a unique edge in understanding systems, inf
 - Python
 
 ## My Projects
-[health analysis Dashbaord](https://github.com/Amarachi-24/Healthcare-Analysis)
+[Health analysis Dashbaord](https://github.com/Amarachi-24/Healthcare-Analysis)
 
 ## Currently Learning 
 - Advanced SQL
 - python for Data Science
 
 ## Let's connect!
-[linkedin](https://www.linkedin.com/in/nneoma-onwe-505a26196/?skipRedirect=true)
+[Linkedin](https://www.linkedin.com/in/nneoma-onwe-505a26196/?skipRedirect=true)
